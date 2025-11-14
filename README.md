@@ -51,7 +51,7 @@ run_recbole(model='ATHWE', dataset=dataset,
 
 ## Acknowledgments
 
-Our implementation is based on [RecBole](https://github.com/RUCAIBox/RecBole) and [UniSRec](https://github.com/RUCAIBox/UniSRec). This work is also built upon [HM4SR](https://github.com/SStarCCat/HM4SR). Thanks for the splendid codes from these authors. The dataset preparation follows [HM4SR](https://github.com/SStarCCat/HM4SR).
+Our implementation is based on [RecBole](https://github.com/RUCAIBox/RecBole) and [UniSRec](https://github.com/RUCAIBox/UniSRec). This work is also built upon [HM4SR](https://github.com/SStarCCat/HM4SR) for both implementation and dataset preparation. Thanks for the splendid codes from these authors.
 
 ## Citation
 
