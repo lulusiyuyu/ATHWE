@@ -1,11 +1,11 @@
-# ATHWE: Adaptive Time-aware Hierarchical Wavelet Expert for Sequential Recommendation
+# ATHWE: Adaptive Temporal Expert Routing with Hierarchical Wavelet Enhancement for Multi-Modal Sequential Recommendation
 
 ## Introduction
 
-ATHWE is a multimodal sequential recommendation model that leverages time-aware expert networks and wavelet-based feature fusion. The model integrates multiple modalities (item IDs, text, and images) through:
+ATHWE is a multi-modal sequential recommendation model that combines adaptive temporal expert routing with hierarchical wavelet enhancement. The model processes multiple modalities (item IDs, text, and images) through:
 
-- **Time-aware Mixture of Experts (MoE)**: Dynamically routes features through specialized experts based on temporal patterns
-- **Wavelet-based Feature Alignment**: Uses discrete wavelet transform (DWT) to align and fuse multimodal features
+- **Adaptive Temporal Expert Routing**: Dynamically routes features through specialized experts based on temporal patterns
+- **Hierarchical Wavelet Enhancement**: Uses discrete wavelet transform (DWT) for multi-scale feature fusion
 - **Contrastive Learning**: Employs multiple contrastive learning objectives
 - **Transformer Encoders**: Processes sequential patterns for each modality
 
